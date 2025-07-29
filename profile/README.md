@@ -22,8 +22,8 @@ Na camada de backend, atuamos com arquiteturas modernas e resilientes, fortement
 - **ASP.NET Core**
 - **.NET Aspire** para orquestração de serviços e observabilidade
 - **Entity Framework Core** (Code-First & Migrations)
-- **Java com Spring Boot** (para serviços legados ou interoperáveis)
-- **PostgreSQL** como banco de dados relacional primário
+- **Java com Spring Boot ou Quarkus** (para serviços legados ou aplicações cloud de alta performance)
+- **PostgreSQL e Microsoft SQL Server** como banco de dados relacionais
 - **gRPC e RESTful APIs** para comunicação entre serviços
 - **Autenticação OpenID Connect com Identity API (OIDC & Bearer Token)**
 - **Integração com bibliotecas de IA (Python e .NET Interop)** para recursos avançados
