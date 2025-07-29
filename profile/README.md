@@ -1,6 +1,7 @@
 # Aggitech Tecnologia da Informação LTDA
    
 **Segmento:** Desenvolvimento de soluções digitais inteligentes e escaláveis
+
 **Localização:** Brasil
 
 ---
